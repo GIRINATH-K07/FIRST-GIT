@@ -1,2 +1,4 @@
-print("Addition:",2+2)
-print("SubtrCTION:",5-3)
+print("ADD:",2+2)
+print("SUB:",5-3)
+print("MULTI:",3*5)
+
